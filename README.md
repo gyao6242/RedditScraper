@@ -1,4 +1,4 @@
-# WebScraper
+# RedditScraper
 CIS542 Class Project
 
 This project uses the following Python libraries and modules
