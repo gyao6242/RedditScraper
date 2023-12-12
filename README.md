@@ -19,4 +19,4 @@ The Reddit API can be obtained by going to reddit.com/prefs/apps and creating an
 
 After cloning this repository and creating an instance of Reddit's API, launch the .exe found in the /dist/ folder.
 
-NOTE: The praw.ini should be in the same directory as the .exe. On the off chance that it is not, please return it back to the directory. The praw.ini can be found in the directory where praw was installed. (\path\to\sitepackages\)
+NOTE: All .ini files should be in the same directory as the .exe. On the off chance that they're not, please return them back to the directory. These .ini files can be found in the directory where the libraries were installed. (\path\to\sitepackages\)
